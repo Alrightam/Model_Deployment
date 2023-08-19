@@ -1,0 +1,1 @@
+farm-haystack @ git+https://github.com/deepset-ai/haystack.git@d96c963bc4ab611d327661ee748cb8683ded9f39
