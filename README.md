@@ -11,6 +11,7 @@ RAG模型实验于本地，云端模型为WebGLM。
 ## 测试模型
 Demo地址如下：
 http://region-8.autodl.pro:25915/
+
 WebGLM模型仅支持输入英文。
 
 ## 参考资料
